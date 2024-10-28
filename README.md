@@ -1,5 +1,5 @@
 # webscrape_DDUGJY
-Python script for the download of data on the electrification status of each Indian village under the DDUGJY. 
+Python script for the download of data on the electrification status of each Indian village under the DDUGJY. With help from [Enrico Bergamini](https://github.com/ebergam). 
 
 Script wrote for the download of the data used in my master thesis "Does rural electrification affect primary school enrolment? Evidence from India" in 2020. 
 
